@@ -1,0 +1,46 @@
+.navbar {
+	opacity: 0.8;
+	border-bottom: 1px solid #fff;
+}
+
+.jumbotron {
+	padding-top: 100px;
+    background: url(undraww.png);
+	background-position:inherit;
+    opacity: 0.7;
+}
+img {
+    width: 200px;
+    float: right;
+    margin-left: 5px; 
+}
+
+ .transbox {
+    font-weight:bold;
+    color:#080808;
+    
+ }
+.large-fontsize{
+	font-size: 25px !important;
+	}  
+	
+.boyut {
+	position: absolute;
+	left: 20px;
+	top: 15px;
+	}  
+	.right
+   {
+      float: right;
+      width: 70%;
+   }
+
+
+
+
+   
+
+   
+
+
+   
